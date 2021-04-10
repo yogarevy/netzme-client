@@ -1,5 +1,9 @@
 # NETZME Client
 Ini adalah project test simple aplikasi client (Frontend).
+## Prerequisites
+
+- node - at least v10.13 We recommend you have the latest LTS version installed.
+- A terminal, we recommend using VS Code's integrated terminal or WebStorm terminal.
 
 ## Build Setup
 1. Set configuration Environment
