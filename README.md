@@ -12,6 +12,7 @@ Ini adalah project test simple aplikasi client (Frontend).
 ```bash
 $ cp .env.example .env
 ```
+Lalu isi ```CLIENT_ID``` dan ```CLIENT_SECRET``` dari hasil generate backend.
 2. Install dependencies and Run Project.
 ```bash
 # install dependencies
